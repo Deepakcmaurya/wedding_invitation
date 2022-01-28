@@ -50,11 +50,11 @@ URL:            http://themeforest.net/user/themepresss
 #0.1    Theme Reset Style
 --------------------------------------------------------------*/
 html {
-  font-size: 16px;
+  font-size: 17px;
 }
 
 body {
-   font-family: 'Dosis', sans-serif;
+   font-family: Copperplate, Papyrus, fantasy;
   background-color: #fff;
   font-size: 16px;
   font-size: 1rem;
@@ -1794,7 +1794,7 @@ div#preloader {
 #0.5	footer
 --------------------------------------------------------------*/
 .site-footer {
-  background: url("../images/footer-bg.jpg") center center/cover no-repeat local;
+  background: url("../images/story/foot.jpg") center center/cover no-repeat local;
   text-align: center;
   padding: 235px 0 250px;
   position: relative;
