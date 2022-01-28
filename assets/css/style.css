@@ -1431,7 +1431,7 @@ div#preloader {
 
 @media (max-width: 767px) {
   .site-header .navbar-header .navbar-brand {
-    font-size: 24px;
+    font-size: 35px;
   }
   .site-header #navbar .navbar-nav {
     margin: 0;
@@ -1802,7 +1802,7 @@ div#preloader {
 }
 
 .site-footer .text{
-  background: rgba(133,170,186,.9);
+  background: rgb(160 70 70 / 80%);
   max-width: 600px;
   margin: auto;
   padding: 60px 0;
@@ -1842,6 +1842,7 @@ div#preloader {
   position: absolute;
   left: 0;
   top: 0;
+  opacity: 0;
 }
 
 .site-footer h2 {
@@ -1888,7 +1889,7 @@ div#preloader {
 }
 
 .site-footer .back-to-top {
-  background-color:#85aaba;
+  background-color:#a83a3a;
   width: 90px;
   height: 90px;
   line-height: 70px;
@@ -2121,7 +2122,7 @@ couple-area end
     height: 100%;
     position: absolute;
     background: #000;
-    opacity: .7;
+    opacity: .3;
     left: 0;
     top: 0;
 }
@@ -2486,7 +2487,7 @@ animation: spineer 2s infinite;
 =================================*/
 
 .cta-area {
-    background: url(../images/cta/img-1.jpg) no-repeat center center / cover;
+    background: url(../images/story/big.jpg) no-repeat center center / cover;
     position: relative;
     background-attachment: fixed;
 }
@@ -2499,7 +2500,7 @@ animation: spineer 2s infinite;
     width: 100%;
     height: 100%;
     background: #000;
-    opacity: .8;
+    opacity: .5;
 }
 
 .cta-content {
