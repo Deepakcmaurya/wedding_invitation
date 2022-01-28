@@ -1794,7 +1794,7 @@ div#preloader {
 #0.5	footer
 --------------------------------------------------------------*/
 .site-footer {
-  background: url("../images/story/foot.jpg") center center/cover no-repeat local;
+  background: url("https://res.cloudinary.com/deepakcmaurya/image/upload/v1643355317/story/foot_po420q.jpg") center center/cover no-repeat local;
   text-align: center;
   padding: 235px 0 250px;
   position: relative;
@@ -2111,7 +2111,7 @@ couple-area end
 =============================*/
 
 .count-down-area {
-    background: url(../images/story/back.png) no-repeat center center / cover;
+    background: url(https://res.cloudinary.com/deepakcmaurya/image/upload/v1643355292/story/back_ls2mo9.png) no-repeat center center / cover;
     background-attachment: fixed;
     position: relative;
 }
@@ -2487,7 +2487,7 @@ animation: spineer 2s infinite;
 =================================*/
 
 .cta-area {
-    background: url(../images/story/big.jpg) no-repeat center center / cover;
+    background: url(https://res.cloudinary.com/deepakcmaurya/image/upload/v1643355322/story/big_klnqwh.jpg) no-repeat center center / cover;
     position: relative;
     background-attachment: fixed;
 }
