@@ -550,6 +550,11 @@ button:focus {
   top: 0;
 }
 
+.centered{
+  justify-content: center;
+  display: flex;
+}
+
 .page-title .container {
   height: 100%;
   display: table;
