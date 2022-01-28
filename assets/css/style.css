@@ -1558,7 +1558,7 @@ div#preloader {
   -webkit-animation: spineer 2s infinite;
   animation: spineer 2s infinite;
   max-width: 600px;
-  margin: auto;
+  margin-top: 193px;
   padding: 50px 0 40px;
   z-index: 99;
 }
