@@ -1552,7 +1552,7 @@ div#preloader {
   text-align: left;
 }
 .hero-slider .slide-inner .slide-content{
-  background: rgba(133,170,186,.8);
+  background: rgb(160 70 70 / 80%);
   border-top-right-radius: 80px;
   border-bottom-left-radius: 80px;
   -webkit-animation: spineer 2s infinite;
@@ -2110,7 +2110,7 @@ couple-area end
 =============================*/
 
 .count-down-area {
-    background: url(../images/counter/1.jpg) no-repeat center center / cover;
+    background: url(../images/story/back.png) no-repeat center center / cover;
     background-attachment: fixed;
     position: relative;
 }
